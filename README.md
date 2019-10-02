@@ -10,4 +10,4 @@
 * python hack.py ( Termux )
 * python3 hack.py ( Any Linux Distro )
 ---
-<a href="www.instagram.com/th3unkn0n"><img src="https://www.seeklogo.net/wp-content/uploads/2016/05/instagram-icon-logo-vector-download.jpg" style="width:317px;height:160px;"></a>
+<center><a href="www.instagram.com/th3unkn0n"><img src="https://www.seeklogo.net/wp-content/uploads/2016/05/instagram-icon-logo-vector-download.jpg" style="width:5px;height:5px;"></a></center>
