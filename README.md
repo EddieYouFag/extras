@@ -5,13 +5,16 @@
 * This Will Make Currunt Shell Unusable By Spamming Print MSG
 * And Stop User From Escaping Shell & User Have To Close Shell
 ### How To Use
-* Download Main File
 ```
 curl -O https://raw.githubusercontent.com/th3unkn0n/Terminal-fun-virus/master/hack.py
 ```
+* To Run This In Termux
 ```
-python hack.py ( Termux )
+python hack.py
 ```
+* In Any Linux Based Distro
 ```
-python3 hack.py ( Any Linux Distro )
+python3 hack.py
 ```
+YouTube    : youtube.com/c/theunknon
+Instagram  : instagram.com/th3unkn0n
