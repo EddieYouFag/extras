@@ -6,6 +6,12 @@
 * And Stop User From Escaping Shell & User Have To Close Shell
 ### How To Use
 * Download Main File
-* curl -O https://raw.githubusercontent.com/th3unkn0n/Terminal-fun-virus/master/hack.py
-* python hack.py ( Termux )
-* python3 hack.py ( Any Linux Distro )
+```
+curl -O https://raw.githubusercontent.com/th3unkn0n/Terminal-fun-virus/master/hack.py
+```
+```
+python hack.py ( Termux )
+```
+```
+python3 hack.py ( Any Linux Distro )
+```
