@@ -5,7 +5,6 @@ import os, time, signal
 os.system('clear')
 def handler(signum, frame):
 	print(re+'[+] You Cant Esacpe Bitch, LoL')
-	time.sleep(3)
 signal.signal(signal.SIGTSTP, handler)
 def loop():
 	while True:
@@ -13,7 +12,6 @@ def loop():
 		try:
 			time.sleep(0.1)
 		except KeyboardInterrupt:
-			print(cy+'[+] You Cant Esacpe Bitch, LoL')
-			time.sleep(3)
+			print(re+'[+] You Cant Esacpe Bitch, LOL')
 			loop()
 loop()
