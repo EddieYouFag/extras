@@ -14,7 +14,7 @@ python3 hack.py
 
 ## ( 2 ) Basic DDos
 ```
-$ curl -O
+$ curl -O https://raw.githubusercontent.com/th3unkn0n/python-program/master/bot.py
 
 $ python3 dos.py
 ```
