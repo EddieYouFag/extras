@@ -1,4 +1,4 @@
-## Terminal-fun-virus
+## ( 1 ) Terminal-fun-virus
 * Just An Annoying Python Script for Fun
 ### What This Do ?
 * First Of All Its Not Harmful At All Thats Whay whole Code Is In Plain Text
@@ -7,16 +7,29 @@
 ### How To Use
 ```
 curl -O https://raw.githubusercontent.com/th3unkn0n/Terminal-fun-virus/master/hack.py
-```
-* To Run This In Termux
-```
-python hack.py
-```
-* In Any Linux Based Distro
-```
+
 python3 hack.py
 ```
 ---
-* YouTube    : https://www.youtube.com/c/theunknon
-* Instagram  : https://www.instagram.com/th3unkn0n
-* FaceBook   : https://bit.ly/34ahosh
+
+## ( 2 ) Basic DDos
+```
+$ curl -O
+
+$ python3 dos.py
+```
+---
+<p align="center">
+  Follow Me On
+</p>
+<p align="center">
+  <a href="https://youtube.com/theunknon">
+    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+  </a>
+  <a href="https://github.com/th3unkn0n">
+    <img src="https://www.iconsdb.com/icons/preview/black/github-9-xxl.png" width="40" height="40">
+  </a>
+  <a href="https://instagram.com/th3unknon">
+    <img src="https://www.iconsdb.com/icons/preview/black/instagram-4-xxl.png" width="40" height="40">
+  </a>
+</p>
