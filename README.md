@@ -13,7 +13,7 @@ python3 hack.py
 ---
 
 ### Some Basic Useful Scripts
-```
+
 ---
 <p align="center">
   Follow Me On
