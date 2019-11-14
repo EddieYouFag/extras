@@ -10,9 +10,8 @@ curl -O https://raw.githubusercontent.com/th3unkn0n/Terminal-fun-virus/master/ha
 
 python3 hack.py
 ```
----
 
-### Some Basic Useful Scripts
+### & Some Basic Useful Scripts
 
 ---
 <p align="center">
