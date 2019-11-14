@@ -1,4 +1,4 @@
-## ( 1 ) Terminal-fun-virus
+## Terminal-fun-virus
 * Just An Annoying Python Script for Fun
 ### What This Do ?
 * First Of All Its Not Harmful At All Thats Whay whole Code Is In Plain Text
@@ -12,11 +12,7 @@ python3 hack.py
 ```
 ---
 
-## ( 2 ) Basic DDos
-```
-$ curl -O https://raw.githubusercontent.com/th3unkn0n/python-program/master/bot.py
-
-$ python3 dos.py
+### Some Basic Useful Scripts
 ```
 ---
 <p align="center">
